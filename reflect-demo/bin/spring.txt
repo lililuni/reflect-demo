@@ -1,0 +1,2 @@
+class=readPropertiesFlle.Service1
+method=doService1
